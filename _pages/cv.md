@@ -20,9 +20,13 @@ Education
 
 Work experience
 ======
-* Network Administrator 2012-Present
+* Network Administrator(Contract) 2012-Present
   * Osmania University
   * Duties included: Handling online servers, development of applications
+  
+* Developer & Partner   2016-Present 
+  * Rida Info Tech LLP - Established start-up company in the year 2016.
+  * Duties included: Handling customers issues, Website UI designing, Application development and deployment
 
 Research interest
 ======
@@ -34,6 +38,13 @@ Research interest
   * Machine Learning
   * Data Encryption
   * Neuroscience and cognitive psychology
+  
+Skills
+======
+  * Programming (C#, Python, SQL)
+  * Website UI(Bootstrap,jquery)
+  * I'm new born baby in AI
+  
 
 Publications
 ======
@@ -41,18 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Research interest
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
