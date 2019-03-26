@@ -9,24 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+Hello! I'm a research scholar in AI at Department of Computer Science & Engineering, Osmania University.I am passionate about AI impacts on education broadly, I am interested in the following areas Natural Language Processing, Computer Vision, Deep Learning, Child Psychology, Neuroscience and cognitive. I've  fortunate to work under the guidance of Dr. Ram Mohan Rao.
+
+
+
 Education
 ======
-* B.E. in Computer Science & Engineering (2008-2011) First class,<br/>
-  (Vasavi College of Engineering), Osmania University, Hyderabad, India.  
-* M.Tech. in Computer Science & Engineering (2014-2016) First class with distinction,<br/> 
-  Jawaharlal Nehru Technological University, Hyderabad, India.
-* Ph.D in artificial intelligence, admitted in the year 2018 (expected 2021).<br/>
+* Ph.D in artificial intelligence, joined in the year 2018 (expected 2021).<br/>
   Osmania University, Hyderabad, India.
+* M.Tech. in Computer Science & Engineering (2014-2016) first class with distinction,<br/> 
+  Jawaharlal Nehru Technological University, Hyderabad, India.
+* B.E. in Computer Science & Engineering (2008-2011) first class,<br/>
+  (Vasavi College of Engineering), Osmania University, Hyderabad, India.  
 
 Work experience
 ======
-* Network Administrator(Contract) 2012-Present
+* Network Administrator (Contract) 2012-Present
   * Osmania University
   * Duties included: Handling online servers, development of applications
   
 * Developer & Partner   2016-Present 
   * Rida Info Tech LLP - Established start-up company in the year 2016.
-  * Duties included: Handling customers issues, Website UI designing, Application development and deployment
+  * Duties included: Resolve customer issues, Website UI designing, Application development and deployment.
 
 Research interest
 ======
@@ -42,7 +48,9 @@ Research interest
 Skills
 ======
   * Programming (C#, Python, SQL)
-  * Website UI(Bootstrap,jquery)
+  * Website UI (Bootstrap, jquery)
+  * System Infrastructure (Experienced in building and maintaining networks infrastructure and managing servers)
+  * Hobbies (Photography)
   * I'm new born baby in AI
   
 
