@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science & Engineering (Vasavi College of Engineering), Osmania University,First class in the 2008-2011.
-* M.Tech. in Computer Science & Engineering, Jawaharlal Nehru Technological University, Hyderabad (JNTU Hyderabad),First class with distinction in the year 2014-2016.
-* Ph.D in artificial intelligence , Osmania University,admitted in the year 2018.
+* B.E. in Computer Science & Engineering (2008-2011)First class,
+  (Vasavi College of Engineering), Osmania University,Hyderabad,India.  
+* M.Tech. in Computer Science & Engineering (2014-2016) First class with distinction, 
+  Jawaharlal Nehru Technological University, Hyderabad,India.
+* Ph.D in artificial intelligence, admitted in the year 2018.
+  Osmania University,,Hyderabad,India.
 
 Work experience
 ======
