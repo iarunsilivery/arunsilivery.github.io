@@ -11,19 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science & Engineering (2008-2011)First class,
-  (Vasavi College of Engineering), Osmania University,Hyderabad,India.  
-* M.Tech. in Computer Science & Engineering (2014-2016) First class with distinction, 
-  Jawaharlal Nehru Technological University, Hyderabad,India.
-* Ph.D in artificial intelligence, admitted in the year 2018.
-  Osmania University,,Hyderabad,India.
+* B.E. in Computer Science & Engineering (2008-2011) First class,<br/>
+  (Vasavi College of Engineering), Osmania University, Hyderabad, India.  
+* M.Tech. in Computer Science & Engineering (2014-2016) First class with distinction,<br/> 
+  Jawaharlal Nehru Technological University, Hyderabad, India.
+* Ph.D in artificial intelligence, admitted in the year 2018 (expected 2021).<br/>
+  Osmania University, Hyderabad, India.
 
 Work experience
 ======
-* Summer 2015: Network Administrator
+* Network Administrator 2012-Present
   * Osmania University
   * Duties included: Handling online servers, development of applications
-  
+
+Research interest
+======
+  * Artificial Intelligence
+  * Computer Vision
+  * Deep Learning 
+  * Natural Language Processing
+  * Neural Networks
+  * Machine Learning
+  * Data Encryption
+  * Neuroscience and cognitive psychology
 
 Publications
 ======
@@ -31,7 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research interest
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
