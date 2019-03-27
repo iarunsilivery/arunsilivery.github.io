@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Arun Silivery,<br/>
+
 Research Scholar,<br/>
 Department of Computer Science & Engineering,<br/>
 Osmania University, Hyderabad, India.<br/>
