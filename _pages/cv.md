@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
-Arun Silivery,
-Research Scholar,
-Department of Computer Science & Engineering,
-Osmania University, Hyderabad, India.
+Arun Silivery,<br/>
+Research Scholar,<br/>
+Department of Computer Science & Engineering,<br/>
+Osmania University, Hyderabad, India.<br/>
 Email: arunsilivery@osmania.ac.in
 
 
