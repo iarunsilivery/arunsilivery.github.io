@@ -51,8 +51,8 @@ Research interests
   
 Skills
 ======
-  * Programming (C#, Python, SQL)
-  * Website UI (Bootstrap, jquery)
+  * Programming (C#, Python, SQL, HTML)
+  * Website UI (Bootstrap, jquery, CSS)
   * System Infrastructure (Experienced in building and maintaining networks infrastructure and managing servers)
   * Hobbies (Photography)
   
