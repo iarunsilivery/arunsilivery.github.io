@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Arun Silivery,Research scholar at Osmania University."
+title: "Arun Silivery"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
