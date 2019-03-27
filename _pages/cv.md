@@ -12,10 +12,9 @@ redirect_from:
 
 
 <sub>Research Scholar,</sub><br/>
-<sub>Address:</sub>Department of Computer Science & Engineering,<br/>
+Address: Department of Computer Science & Engineering,<br/>
 Osmania University, Hyderabad, India.<br/>
-<sub>Email:</sub> arunsilivery@osmania.ac.in
-
+Email: arunsilivery@osmania.ac.in
 
 
 Education
@@ -31,11 +30,11 @@ Education
 
 Work experience
 ======
-* Network Administrator (Contract) 2012-Present
+* Network Administrator (Contract) March 2012-Present
   * Organization: Osmania University.
   * Duties included: Handling online servers, development of applications.
   
-* Developer & Partner   2016-Present 
+* Developer & Partner   October 2016-Present 
   * Organization: Rida Info Tech LLP - Established start-up company in the year 2016.
   * Duties included: Resolve customer issues, Website UI designing, Application development and deployment.
 
@@ -56,7 +55,7 @@ Skills
   * Website UI (Bootstrap, jquery)
   * System Infrastructure (Experienced in building and maintaining networks infrastructure and managing servers)
   * Hobbies (Photography)
-  * I'm new born baby in AI
+  
   
 
 Publications
