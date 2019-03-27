@@ -22,9 +22,11 @@ Education
 ======
 * Ph.D in artificial intelligence, joined in the year 2018 (expected 2021).<br/>
   Osmania University, Hyderabad, India.
-* M.Tech. in Computer Science & Engineering (2014-2016) first class with distinction,<br/> 
+* M.Tech. in Computer Science & Engineering <br/>
+  (2014-2016) First Class With Distinction,<br/> 
   Jawaharlal Nehru Technological University, Hyderabad, India.
-* B.E. in Computer Science & Engineering (2008-2011) first class,<br/>
+* B.E. in Computer Science & Engineering <br/>
+  (2008-2011) First Class,<br/>
   (Vasavi College of Engineering), Osmania University, Hyderabad, India.  
 
 Work experience
