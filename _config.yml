@@ -10,7 +10,7 @@ locale                   : "en-IN"
 title                    : "Arun Silivery"
 title_separator          : "-"
 name                     : &name "Arun Silivery"
-description              : &description "Research scholar "
+description              : &description "Research scholar at Osmania University. "
 url                      : https://iarunsilivery.github.io/arunsilivery.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iarunsilivery/arunsilivery.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Arun Silivery"
   avatar           : "profile.png"
-  bio              : "Research scholar at Osmania University."
-  location         : "Hyderabad"
+  bio              : "Research scholar"
+  location         : "Osmania University, Hyderabad"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=A3vUJfI2i0MC&hl=en"
