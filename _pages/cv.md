@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Arun Silivery"
 permalink: /cv/
 author_profile: true
 redirect_from:
