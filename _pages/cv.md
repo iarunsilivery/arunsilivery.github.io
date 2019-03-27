@@ -13,7 +13,7 @@ redirect_from:
 
 
 Address: Department of Computer Science & Engineering,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Osmania University, Hyderabad, India.<br/>
+Osmania University, Hyderabad, India.<br/>
 Email: arunsilivery@osmania.ac.in
 
 
