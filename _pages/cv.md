@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Research Scholar,<br/>
+<sub>Research Scholar,<sub><br/>
 Department of Computer Science & Engineering,<br/>
 Osmania University, Hyderabad, India.<br/>
 Email: arunsilivery@osmania.ac.in
