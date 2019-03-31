@@ -52,8 +52,7 @@ Skills
   * Programming (C#, Python, SQL, HTML)
   * Website UI (Bootstrap, jQuery, CSS)
   * System Infrastructure (Experienced in building and maintaining networks infrastructure and managing servers)
-  * Hobbies (Photography)  
-  
+   
 Other Activities 
 ======
 *	Co-founder of M/S Rida Info Tech LLP.
