@@ -17,7 +17,7 @@ Email: arunsilivery AT osmania DOT ac DOT in
 
 Education
 ======
-* Ph.D. in Artificial Intelligence, joined in the year 2018 (expected 2021).<br/>
+* Ph.D. in Artificial Intelligence, joined in the year 2018 (expected 2022).<br/>
   (University College of Engineering) Osmania University, Hyderabad, India.
 * M.Tech. in Computer Science & Engineering, <br/>
   (2014-2016) First Class With Distinction,<br/> 
