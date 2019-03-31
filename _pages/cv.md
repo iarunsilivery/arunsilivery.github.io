@@ -68,7 +68,8 @@ Publications
   
 
 
-
-[Download my cv here](https://iarunsilivery.github.io/arunsilivery.github.io/files/ArunResume.pdf)
+Download
+======
+[Download CV here](https://iarunsilivery.github.io/arunsilivery.github.io/files/ArunResume.pdf)
 
 
