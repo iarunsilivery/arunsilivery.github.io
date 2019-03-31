@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Arun Silivery"
-permalink: /cv/
+permalink: cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-
 Address: Department of Computer Science & Engineering,<br/>
+University College of Engineering, <br/>
 Osmania University, Hyderabad, India.<br/>
 Email: arunsilivery AT osmania DOT ac DOT in
 
@@ -34,8 +32,8 @@ Work experience
   * Organization: Osmania University.
   * Duties included: Handling online servers, development of applications.
   
-* Developer & Partner   October 2016-Present 
-  * Organization: Rida Info Tech LLP - Established start-up company in the year 2016.
+* Developer & Co-founder (October 2017-Present) 
+  * Organization: Rida Info Tech LLP,
   * Duties included: Resolve customer issues, Website UI designing, Application development and deployment.
 
 Research interests
@@ -52,11 +50,15 @@ Research interests
 Skills
 ======
   * Programming (C#, Python, SQL, HTML)
-  * Website UI (Bootstrap, jquery, CSS)
+  * Website UI (Bootstrap, jQuery, CSS)
   * System Infrastructure (Experienced in building and maintaining networks infrastructure and managing servers)
-  * Hobbies (Photography)
+  * Hobbies (Photography)  
   
-  
+Other Activities 
+======
+*	Co-founder of M/S Rida Info Tech LLP.
+*	National Cadet Corps (NCC) “B” Certificate
+*	Hobbies (Photography)
 
 Publications
 ======
@@ -65,6 +67,6 @@ Publications
   {% endfor %}</ul>
   
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
